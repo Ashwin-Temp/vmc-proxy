@@ -36,7 +36,7 @@ vmc = "194.213.3.3:25566"
 try = ["vmc"]
 
 [forced-hosts]
-"india.jinxko.com" = ["vmc"]
+"india.sparks.com" = ["vmc"]
 
 
 [advanced]
